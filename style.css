@@ -62,8 +62,7 @@ p {
 .galeria{
    display: flex;
    gap: 15px;
-   
-  
+   border-bottom: 20px;
 }
 .galeria img {
   flex:1;
@@ -71,7 +70,7 @@ p {
    width: 15%;
    height: 15%;
    object-fit: cover;
-   border-bottom: 20px;
+   
 }
 
 
